@@ -1,3 +1,19 @@
+# ENSF 607 Assignment 5
+
+Author: Brandon Quan
+
+Navigate to this directory using terminal.
+
+To run application:
+
+### `npm start`
+
+May first require:
+
+### `npm install`
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
