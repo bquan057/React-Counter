@@ -1,6 +1,8 @@
-# ENSF 607 Assignment 5
+# React Counter App
 
 Author: Brandon Quan
+
+A quick counter application built using React and Bulma.
 
 Navigate to this directory using terminal.
 
